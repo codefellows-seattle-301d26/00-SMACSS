@@ -2,7 +2,7 @@ nav ul {
     float: right;
   }
 
-  nav li {
+nav li {
     float: left;
     padding-right: 2px;
   }
@@ -18,7 +18,7 @@ nav ul {
     float: left;
   }
 
-  .date {
+.date {
     float: left;
 }
   
