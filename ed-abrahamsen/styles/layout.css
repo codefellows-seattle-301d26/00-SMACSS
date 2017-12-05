@@ -1,0 +1,40 @@
+nav ul {
+    float: right;
+  }
+
+nav li {
+    float: left;
+    padding-right: 2px;
+  }
+
+#logo {
+    float: left;
+    padding-bottom: 25px;
+    color: black;
+    text-decoration: none;
+}
+  
+#logo img {
+    float: left;
+  }
+
+.date {
+    float: left;
+}
+  
+.print {
+    text-decoration: none;
+    padding-left: 30px;
+    float: right;
+}
+
+.recipe li {
+    float: left;
+    width: 40%;
+    font-size: 1.3em;
+    line-height: 31px;
+}
+
+aside img {
+    float: left;
+}
