@@ -13,8 +13,6 @@
     text-transform: uppercase;
   }
   
-  
-  
   .print, .date {
     color: #a9a8a5;
     font-family: 'Abel', sans-serif;
@@ -25,13 +23,9 @@
     margin-bottom: 33px;
   }
   
-  
-  
   .print img {
     margin-right: 3px;
   }
-  
-  
   
   .recipe {
     letter-spacing: .1em;
@@ -43,14 +37,10 @@
     margin: 40px 0;
   }
   
-  
-  
   aside {
     padding-top: 30px;
     padding-bottom: 60px
   }
-  
-  
   
   aside h3 {
     padding-left: 100px;
@@ -82,7 +72,6 @@
     border-bottom: 1px solid #eee;
     height: 0;
   }
-  
   
   footer section p{
     padding: 50px 0;

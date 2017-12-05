@@ -16,15 +16,6 @@ body {
   nav {
     margin-top: 25px;
   }
-
-  nav ul {
-    float: right;
-  }
-  
-  nav li {
-    float: left;
-    padding-right: 2px;
-  }
   
   hr {
     clear: both;
