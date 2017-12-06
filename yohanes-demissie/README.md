@@ -1,6 +1,7 @@
 ##### How did you determine which rules should be placed in each new CSS file?
 
-(Put your answer here)
+I put all the single element selectors into base.css
+
 
 ---
 
