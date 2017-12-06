@@ -1,0 +1,20 @@
+/* All active animations and transitions, hidden and shown styling */
+
+.print, .date {
+    color: #a9a8a5;
+    font-family: 'Abel', sans-serif;
+    font-size: .8em;
+    margin: 0;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 33px;
+  }
+  
+  #slogan {
+    width: 250px;
+    padding-left: 55px;
+    color: #a3a4a2;
+    font-family: 'Abel', sans-serif;
+    font-size: .65em;
+    text-transform: uppercase;
+  } 
